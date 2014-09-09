@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<h1>
+<title>Ford Manual (1919)For Owners and Operators of Ford Cars and Trucks</title>
+</h1>
+</head>
+<body>
+<p>
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+</p>
+<p>
+<ul>
+<li><strong>Author:</strong> Ford Motor Company</li>
+
+<li><strong>Release Date: </strong> July 7, 2014 [EBook #46206]</li>
+
+<li><strong>Language: </strong> English </li>
+
+<li><strong>Character set encoding:</strong> ASCII</li>
+</ul>
+
+<strong>*** START OF THIS PROJECT GUTENBERG EBOOK FORD MANUAL (1919) ***</strong>
+
+
+
+<p>
+Produced by <em>Giovanni Fini, Chris Curnow and the Online
+Distributed Proofreading Team at http://www.pgdp.net </em>(This
+file was produced from images generously made available
+by The Internet Archive)
+</p>
+
+
+
+
+
+
+
+
+[Illustration: Ford Logo]
+
+                             <strong>Contents</strong>
+
+                                                PAGE
+
+ Foreword                                          2
+
+ The Car and Its Operation                         3
+
+ The Ford Engine                                   9
+
+ The Ford Cooling System                          17
+
+ The Gasoline System                              21
+
+ The Ford Ignition System                         25
+
+ The Ford Transmission                            31
+
+ The Rear Axle Assembly                           37
+
+ The Ford Muffler                                 39
+
+ The Running Gear                                 40
+
+ The Ford Lubricating System                      46
+
+ Care of the Tires                                48
+
+ Points on Maintenance                            50
+
+ The Ford Model T One Ton Truck                   51
+
+ The Ford Starting and Lighting System            55
+
+ Summary of Engine Troubles and Their Causes      61
+
+ Index                                            62
+
+
+
+
+[Illustration: Ford The Universal Car]
+
+                            FORD MANUAL
+
+                     For Owners and Operators
+                      of Ford Cars and Trucks
+
+
+                         Copyrighted 1919
+                               _by_
+                        Ford Motor Company
+                        All rights reserved
+
+
+                          _Published by_
+                        FORD MOTOR COMPANY
+                    Detroit, Michigan, U. S. A.
+
+
+
+<p>
+ Foreword
+
+
+ It is a significant fact that nearly all Ford cars are driven by
+ laymen--by owners, who in the great majority of cases have little
+ or no practical experience with things mechanical.
+ </p>
+<p>
+ The simplicity of the Ford car and the ease with which it
+ is operated renders an intimate knowledge of mechanical
+ technicalities unnecessary for its operation.
+</p>
+<p>
+ And the further fact that there are more than twenty thousand Ford
+ service stations distributed throughout the civilized world--where
+ adjustments and repairs may be had with no annoying delay--gives
+ to Ford owners a singular freedom from mechanical annoyances
+ which beset owners of cars having limited service facilities and
+ distribution.
+ </p>
+ <p>
+
+ But while it is not imperative, it is, however, altogether
+ desirable that every Ford owner should thoroughly understand his
+ car. With such knowledge at his command he is always master of the
+ situation--he will maintain his car more economically--prolong its
+ usefulness--and he will also derive more pleasure from it, for it
+ is a truism that the more one knows about a thing the more one
+ enjoys it.
+ </p>
+ <p>
+
+ The mastery of a thorough knowledge of Ford construction is by no
+ means a difficult or time-consuming task. The Ford is the simplest
+ car made. It is easy to understand, and is not difficult to keep
+ in proper adjustment and repair.
+ </p>
+ <p>
+
+ That the Ford construction may be thoroughly understood--and
+ that there may be an authoritative guide for the making of Ford
+ adjustments--this book is published.
+ </p>
+
+<p>
+ <h2>Important</h2>
+
+ _It is most important that owners of Ford cars shall insist upon
+ getting the genuine Ford-made materials, or "Parts," when having
+ repairs or replacements made. This will be assured when the car
+ is taken to the authorized Ford agent. Imitation, or "bogus" or
+ counterfeit parts of inferior quality are being made and sold as
+ "Ford Parts." Avoid their use by dealing with the authorised Ford
+ agent._
+</p>
+
+
+<p>
+ <h2>The Car and Its Operation</h2>
+
+
+<em> _What must be done before starting the Car?_ </em>        <strong>_Answer No. 1_</strong>
+
+ Before trying to start the car, fill the radiator (by removing cap
+ at top) with clean fresh water. If perfectly clean water cannot
+ be obtained it is advisable to strain it through muslin or other
+ similar material to prevent foreign matter from getting in and
+ obstructing the small tubes of the radiator. The system will hold
+ approximately three gallons. It is important that the car should
+ not be run under its own power unless the water circulating system
+ has been filled. Pour in the water until you are sure that both
+ radiator and cylinder water jackets are full. The water will run
+ out of the overflow pipe onto the ground when the entire water
+ system has been properly filled. During the first few days that a
+ new car is being driven it is a good plan to examine the radiator
+ frequently and see that it is kept properly filled. The water
+ supply should be replenished as often as may be found necessary.
+ Soft rain water, when it is to be had in a clean state, is
+ superior to hard water, which may contain alkalies and other salts
+ which tend to deposit sediment and clog the radiator. (See chapter
+ on Cooling System.)
+
+
+<em> _What about Gasoline?_ </em>                              <strong>_Answer No. 2_</strong>
+
+ The ten-gallon gasoline tank should be filled--nearly full--and
+ the supply should never be allowed to get low. When filling the
+ tank be sure that there are no naked flames within several feet,
+ as the vapor is extremely volatile and travels rapidly. Always
+ be careful about lighting matches near where gasoline has been
+ spilled, as the air within a radius of several feet is permeated
+ with the highly explosive vapor. The small vent hole in the
+ gasoline tank cap should not be allowed to get plugged up, as
+ this would prevent proper flow of the gasoline to the carburetor.
+ The gasoline tank may be drained by opening the pet cock in the
+ sediment bulb at the bottom.
+
+
+ <em>_How about the Oiling System?_ </em>                     <strong>_Answer No. 3_</strong>
+
+ Upon receipt of the car see that a supply of medium light,
+ high-grade gas engine oil is poured into the crank case through
+ the breather pipe at the front of the engine (a metal cap covers
+ it). Down under the car in the flywheel casing (the reservoir
+ which holds this oil) you will find two pet cocks. Pour oil in
+ slowly until it runs out of the upper cock. Leave the cock open
+ until it stops running--then close it. After the engine has
+ become thoroughly limbered up, the best results will be obtained
+ by carrying the oil at a level midway between the two cocks--but
+ under no circumstances should it be allowed to get below the lower
+ cock. All other parts of the car are properly oiled when it leaves
+ the factory. However, it will be well to see that all grease cups
+ are filled and that oil is supplied to necessary parts. (See Cut
+ No. 18, also chapter on Lubrication.)
+
+
+ <em>_How are Spark and Throttle Levers used?_</em>           <strong>_Answer No. 4_</strong>
+
+Under the steering wheel are two small levers. The right-hand
+(throttle) lever controls the amount of mixture (gasoline and air)
+which goes into the engine. When the engine is in operation, the
+farther this lever is moved downward toward the driver (referred
+to as "opening the throttle") the faster the engine runs and the
+greater the power furnished. The left-hand lever controls the
+spark, which explodes the gas in the cylinders of the engine. The
+advancing of this lever "advances the spark," and it should
+be moved down notch by notch until the motor seems to reach its
+maximum speed. If the lever is advanced beyond this point a dull
+knock will be noticed in the engine. (See chapter on Ignition.)
+
+ [Illustration: Steering Wheel, showing reduction gears meshing
+ with the teeth of the gear case and center pinion. (Cut No. 1)]
+
+
+<em> _Where should these levers be when starting the Engine?_</em>
+                                                     <strong> _Answer No. 5_</strong>
+
+ The spark lever should usually be put in about the third or fourth
+ notch of the quadrant (the notched half-circle on which the levers
+ operate). The throttle should usually be opened about five or
+ six notches. A little experience will soon teach you where these
+ levers should be placed for proper starting. Care should be taken
+ not to advance the spark lever too far, as the engine may "back
+ kick."
+
+
+ <em>_What else is necessary before starting the Engine?_ </em> <strong>_Answer No. 6_</strong>
+
+ First, see that the hand lever, which comes up through the floor
+ of the car at the left of the driver, is pulled back as far as it
+ will go. The lever in this position holds the clutch in neutral
+ and engages the hub brake, thus preventing the car moving forward
+ when the engine is started. Second, after inserting the switch key
+ in the switch on the coil box, throw the switch lever as far to
+ the left as it will go--to the point marked "magneto." This switch
+ connects the magneto with the engine. The engine can't be started
+ until it is on--and the throwing off of this switch stops the
+ engine.
+
+
+ <em>_How is the Engine started?_ </em>                        <strong>_Answer No. 7_</strong>
+
+ If the car is not equipped with a starter the engine is started
+ by the lifting of the starting crank at the front of the car.
+ Take hold of the handle and push firmly toward the car till you
+ feel the crank ratchet engage, then lift upward with a quick
+ swing. With a little experience this operation wall become an
+ easy matter. Don't, as a usual thing, crank downward against the
+ compression--for then an early explosion may drive the handle
+ vigorously backward. This does not mean however, that it is not
+ advisable, when the car is hard to start, to occasionally "spin"
+ the engine by the use of the starting handle--but be sure the
+ spark lever is retarded when spinning or cranking the engine
+ against compression, otherwise a sudden backfire may injure the
+ arm of the operator. When the engine is cool it is advisable to
+ prime the carburetor by pulling on the small wire at the lower
+ left corner of the radiator while giving the engine two or three
+ quarter turns with the starting handle.
+
+ If the car is equipped with a starter the spark and throttle
+ levers should be placed in the same position on the quadrant as
+ when cranking by hand, and the ignition switch turned on. Current
+ from either battery or magneto may be used for ignition. However,
+ we recommend that the magneto be used at all times. The magneto
+ was designed to furnish ignition for the Model T engine and
+ better results will be obtained by operating in this way. Special
+ attention must be paid to the position of the spark lever as a
+ too advanced spark will cause serious backfiring which in turn
+ will bend or break the shaft in the starter. The starting motor is
+ operated by a push button, conveniently located in the floor of
+ the car at the driver's feet. With the spark and throttle levers
+ in the proper position, and the ignition switch turned on, press
+ on the push button with the foot. This closes the circuit between
+ the battery and starting motor, causing the pinion of the Bendix
+ drive shaft to engage with the teeth on the flywheel, thus turning
+ over the crankshaft. When the engine is cold it may be necessary
+ to prime it by pulling out the carburetor priming rod, which is
+ located on the instrument board. In order to avoid flooding the
+ engine with an over rich mixture of gas, the priming rod should
+ only be held out for a few seconds at a time.
+
+
+ <em>_How is the Engine best started in cold weather?_</em>    <strong>_Answer No. 8_</strong>
+
+ As gasoline does not vaporize readily in cold weather it is
+ naturally more difficult to start the motor under such conditions.
+ The usual method of starting the engine when cold is to turn
+ the carburetor dash adjustment one-quarter turn to the left in
+ order to allow a richer mixture of gasoline to be drawn into the
+ cylinders; then hold out the priming rod, while you turn crank
+ from six to eight one-quarter turns in quick succession, or turn
+ the motor over a few times with the starter. Another method of
+ starting a troublesome cold engine is as follows: Before you throw
+ on the magneto switch, (1) close throttle lever; (2) hold out
+ priming rod while you give crank several quick turns, or turn the
+ motor over a few times with the starter, then let go of priming
+ rod (being careful that it goes back all the way); (3) place spark
+ lever in about third notch and advance throttle lever several
+ notches; (4) throw on switch (being sure to get it on side marked
+ "Magneto"); (5) give crank one or two turns, or close the starting
+ switch, and the motor should start. After starting the motor it
+ is advisable to advance the spark eight or ten notches on the
+ quadrant and let the motor run until thoroughly heated up. If you
+ start out with a cold motor you will not have much power and are
+ liable to "stall." The advantage of turning on the switch last, or
+ after priming, is that when you throw on the switch and start the
+ motor, you have plenty of gas in the cylinders, to keep the motor
+ running, thereby eliminating the trouble of the motor starting and
+ stopping. After motor is warmed up turn carburetor adjustment back
+ one-quarter turn.
+
+ To facilitate starting many drivers make a practice of stopping
+ their engine by pulling out on the priming rod, which has the
+ effect of shutting off the air suction and filling the cylinders
+ full of a very rich gasoline vapor. This should not be done unless
+ the car is going to stand over night or long enough to cool off.
+ If the motor is stopped in this way and then started when hot,
+ starting is apt to be difficult on account of the surplus gasoline
+ in the carburetor.
+ </html>
+
+
+ 
